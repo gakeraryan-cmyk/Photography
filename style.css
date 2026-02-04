@@ -1,0 +1,25 @@
+body{
+    background-color: orangered;
+}
+.my.lens{
+    border: 5px solid rgb(151, 78, 78);
+    padding: 10px;
+    margin: 20px;
+    background-color: lightyellow;
+}
+.my.lens p{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: rgb(17, 17, 68);
+    line-height: 1.5;
+}
+.my.lens h2{
+    text-align: center;
+    color: darkred;
+}
+.my.lens img{
+    display: semi-block;
+    margin: 10 auto;
+    max-width: 100%;
+    height: auto;
+}
